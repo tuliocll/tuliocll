@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://im.ezgif.com/tmp/ezgif-1-afd61f4c9df3.gif)
+<img src="https://im.ezgif.com/tmp/ezgif-1-afd61f4c9df3.gif" data-canonical-src="https://im.ezgif.com/tmp/ezgif-1-afd61f4c9df3.gif" width="100%" height="500" />
+
+
 <!--
 **tuliocll/tuliocll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
