@@ -11,23 +11,8 @@
 ### Programming Languages and tools  :rocket:
 <center>
 <img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-code.png?raw=true" width=60>
-&nbsp;
-&nbsp;
-&nbsp;
 <img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-react.png?raw=true" width=60>
-&nbsp;
-&nbsp;
-&nbsp;
 <img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-nodejs.png?raw=true" width=60>
-&nbsp;
-&nbsp;
-&nbsp;
 <img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-js.png?raw=true" width=60>
-&nbsp;
-&nbsp;
-&nbsp;
 <img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-ts.png?raw=true" width=60>
-&nbsp;
-&nbsp;
-&nbsp;
 </center>
