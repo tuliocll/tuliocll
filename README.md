@@ -1,48 +1,41 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tuliocll.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/tuliocll?style=social)
+
 <img src="https://github.com/tuliocll/tuliocll/blob/main/assets/animation.gif?raw=true" data-canonical-src="https://github.com/tuliocll/tuliocll/blob/main/assets/animation.gif?raw=true" width="100%" height="500" />
 
-### About me  :smiley:
-<p align="center">
-
-|<img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-yt.png?raw=true" width=60> | [Youtube chanel](http://youtube.com/tuliocalil) &nbsp; |<img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-blog.png?raw=true" width=60> | [Blog](https://tuliocalil.blogspot.com/) &nbsp; &nbsp; |<img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-twitter.png?raw=true" width=60> | [Twitter](https://twitter.com/tuliocalil) |
-|:---:|:---:|:---:|:------:|:---:|:---:|
-
+<p align='center'>
+<a href="https://tuliocalil.blogspot.com/"><img height="30" src="https://logodownload.org/wp-content/uploads/2018/02/blogger-logo-icon.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/tuliocalil"><img height="30" src="https://cdn4.iconfinder.com/data/icons/miu-square-flat-social/60/youtube-square-social-media-512.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/tuliocalil"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tuliocalil/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-### Programming Languages and tools  :rocket:
+## :smiley: About me
+
+Olá, meu nome é Tulio Calil, sou do interior da Bahia, sou desenvolvedor Javascript/Typescript e apaixonado por Elixir.
+
+Atualmente trabalho com Reactjs, Nodejs, Express, Adonis e React Native. Produzo conteudo sobre as mesmas techs, tanto no meu canal do Youtube quanto no meu Blog.
+
+Quando não estou programando eu gosto de pedalar, ler, estar com meus amigos e dar muita risada.
+
+## :rocket: Programming Languages and tools
+
 <p align="center">
-<img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-code.png?raw=true" width=60>
-&nbsp;
-&nbsp;
-&nbsp;
-<img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-react.png?raw=true" width=60>
-&nbsp;
-&nbsp;
-&nbsp;
-<img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-nodejs.png?raw=true" width=60>
-&nbsp;
-&nbsp;
-&nbsp;
-<img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-js.png?raw=true" width=60>
-&nbsp;
-&nbsp;
-&nbsp;
-<img src="https://github.com/tuliocll/tuliocll/blob/main/assets/icons/tuliocll-ts.png?raw=true" width=60>
-&nbsp;
-&nbsp;
-&nbsp;
+
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 </p>
 
-<!--
-**tuliocll/tuliocll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Follow me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/tuliocalil)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuliocalil)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuliocalil/)
