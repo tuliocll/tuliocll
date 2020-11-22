@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tuliocll.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/tuliocll?style=social)
 
-<img src="https://github.com/tuliocll/tuliocll/blob/main/assets/animation.gif?raw=true" data-canonical-src="https://github.com/tuliocll/tuliocll/blob/main/assets/animation.gif?raw=true" width="100%" height="500" />
+<img src="https://github.com/tuliocll/tuliocll/blob/main/assets/animation.gif?raw=true" data-canonical-src="https://github.com/tuliocll/tuliocll/blob/main/assets/animation.gif?raw=true" width="100%" height="200" />
 
 <p align='center'>
 <a href="https://tuliocalil.blogspot.com/"><img height="30" src="https://logodownload.org/wp-content/uploads/2018/02/blogger-logo-icon.png"></a>&nbsp;&nbsp;
