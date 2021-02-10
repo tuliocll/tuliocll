@@ -7,7 +7,8 @@
 <a href="https://tuliocalil.blogspot.com/"><img height="30" src="https://logodownload.org/wp-content/uploads/2018/02/blogger-logo-icon.png"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/tuliocalil"><img height="30" src="https://cdn4.iconfinder.com/data/icons/miu-square-flat-social/60/youtube-square-social-media-512.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/tuliocalil"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tuliocalil/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/tuliocalil/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://dev.to/tuliocalil"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>
 </p>
 
 ## :smiley: About me
